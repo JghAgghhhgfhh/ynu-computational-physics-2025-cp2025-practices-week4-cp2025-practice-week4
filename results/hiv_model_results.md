@@ -3,12 +3,14 @@
 ## 病毒载量变化图
 
 ![病毒载量变化图](path/to/viral_load.png)
-![2025-03-19 11-58-15屏幕截图](https://github.com/user-attachments/assets/55febfd5-5710-4812-acac-a15ae2f0defe)
+![2025-03-19 11-58-34屏幕截图](https://github.com/user-attachments/assets/71f4764b-7476-48b3-9616-d5098c9d7e98)
+
 
 ## 模型预测图
 
 ![模型预测图](path/to/model_prediction.png)
-![2025-03-19 11-58-34屏幕截图](https://github.com/user-attachments/assets/3fd6de7e-3b41-4cef-8159-58a20ab43a88)
+![2025-03-19 11-58-15屏幕截图](https://github.com/user-attachments/assets/1df12623-b4c2-4624-8ed5-5231fa17a7f1)
+
 
 ## 分析与结论
 
